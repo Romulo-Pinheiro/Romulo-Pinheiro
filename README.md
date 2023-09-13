@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=%3Ch1%3EHello%2C+World%3C%2Fh1%3E;Welcome+to+my+Profile;I'm+Romulo+Pinheiro;And+I'm+studying+Web+Development" alt="Typing SVG"/></a>
 </div>
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning React,Js and Node.js
 - 📚 I'm a Software Engineering student.
 - 💪 I’m looking to collaborate on web projects
 
