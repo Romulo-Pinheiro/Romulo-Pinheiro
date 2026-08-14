@@ -1,16 +1,23 @@
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=%3Ch1%3EHello%2C+World%3C%2Fh1%3E;Welcome+to+my+Profile;I'm+Romulo+Pinheiro;And+I'm+studying+Web+Development" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=Desenvolvedor+Backend;Node.js+%7C+NestJS+%7C+TypeScript;Sou+o+Romulo+Pinheiro" alt="Typing SVG"/></a>
 </div>
 
-- 🌱 I’m currently learning Java and Angular
-- 📚 I'm a Software Engineering student.
-- 💪 I’m looking to collaborate on web projects
-
-## 🔍 Stats
+- 🔧 Desenvolvedor backend com foco em Node.js, NestJS, TypeScript e PostgreSQL
+- 🎓 Cursando Engenharia de Software (UNIFAN, conclusão dez/2026)
+- 🚧 Construindo um projeto público de reserva de vagas com controle de concorrência, testes de integração e CI
 
 <div align="center">
 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=romulo-pinheiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="romulopinheiro's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulo-pinheiro&layout=compact&langs_count=7&theme=midnight-purple" alt="romulopinheiro's most languages"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/romulo-pinheiro-206b3723a)
 
 </div>
