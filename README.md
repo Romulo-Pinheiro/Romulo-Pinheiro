@@ -4,7 +4,7 @@
 
 - 🔧 Desenvolvedor backend com foco em Node.js, NestJS, TypeScript e PostgreSQL
 - 🎓 Cursando Engenharia de Software (UNIFAN, conclusão dez/2026)
-- 🚧 Construindo um projeto público de reserva de vagas com controle de concorrência, testes de integração e CI
+- 🚧 Desenvolvendo o [Vicina](https://github.com/Romulo-Pinheiro/vicina), meu TCC: plataforma cívica para reporte e priorização de problemas urbanos
 
 <div align="center">
 
